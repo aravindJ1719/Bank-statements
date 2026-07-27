@@ -1,0 +1,703 @@
+Transaction Details Page 1 of 10
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 1
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Name :M/S. O C T TRADERS
+Address :6 620
+O C T TRADERS VENGA
+City :KOLLAM Pin Code : 690521
+CKYC Number :XXXXXXXXXX0821
+Tel No. :
+Nomination Flag :Y Nominee Name :
+Scheme Description : bob LITE CURRENT ACCOUNT
+Joint Holders :O C T TRADERS
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+06-06-24 DIGITA-MUMBAI/ 0
+06-06-24 DIGITA-MUMBAI/ 500.00 500.00Cr
+IMPS/P2A/415814101428/SHANA 11070/capitalFBL9
+27-06-24 DIGITA-MUMBAI/ 95,000.00 95,500.00Cr
+NEFT-N179243114329962-MANI MARAKADAI
+27-06-24 DIGITA-MUMBAI/ 10,000.00 1,05,500.00Cr
+IMPS/P2A/417914150004/SHANA 11070/hjkjFBL9189
+27-06-24 Charges for 5.60 1,05,494.40Cr
+Charges for PORD Customer Payment :002063670096
+27-06-24 NEFT-BARBS2417 1 1,00,000.00 5,494.40Cr
+NEFT-BARBS24179087118-NAJEEM-STATE BANK OF INDIA (
+25-07-24 DIGITA-MUMBAI/ 1.00 5,495.40Cr
+IMPS/P2A/420717402577/SHANA 3/KKBKTransfe
+25-07-24 DIGITA-MUMBAI/ 1.00 5,496.40Cr
+IMPS/P2A/420718447378/SHANA 3/KKBKTransfe
+25-07-24 DIGITA-MUMBAI/ 1.00 5,497.40Cr
+IMPS/P2A/420718452164/SHANA 3/KKBKTransfe
+26-07-24 ATM/FUND/42081 12.98 5,484.42Cr
+ATM/FUND/420817753215/XXXXXXXXXXXX9912
+26-07-24 ATM/FUND/42081 12.98 5,471.44Cr
+ATM/FUND/420817753216/XXXXXXXXXXXX9912
+26-07-24 DIGITA-MUMBAI/ 1,77,000.00 1,82,471.44Cr
+NEFT-FDRLH24208471131-SRI MALLIKA TIMBERS
+27-07-24 IMPS/P2A/42090 10.00 1,82,461.44Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 1,00,041.56 2,82,503.00 1,82,461.44Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 2
+IMPS/P2A/420907349677/XXXXXXXXXX1947/fees
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+27-07-24 CHARGES FOR 2.95 1,82,458.49Cr
+CHARGES FOR :IMPS/P2A/420907349677/XXXXXXXX
+27-07-24 Charges for 17.40 1,82,441.09Cr
+Charges for PORD Customer Payment :002128782260
+27-07-24 NEFT-BARBV2420 1,70,235.00 12,206.09Cr
+NEFT-BARBV24209740450-GIREESH M ASSOCIATES-I.C.I.C
+29-07-24 IMPS/P2A/42111 7,500.00 4,706.09Cr
+IMPS/P2A/421119903924/XXXXXXXXXX3084/GroceryandPr
+29-07-24 CHARGES FOR 5.90 4,700.19Cr
+CHARGES FOR :IMPS/P2A/421119903924/XXXXXXXX
+30-07-24 DIGITA-MUMBAI/ 1,10,000.00 1,14,700.19Cr
+NEFT-N212243174540858-MANI MARAKADAI
+30-07-24 Charges for 17.40 1,14,682.79Cr
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 2 of 10
+Charges for PORD Customer Payment :002134321380
+30-07-24 NEFT-BARBP2421 1,10,000.00 4,682.79Cr
+NEFT-BARBP24212485469-NASIB-FEDERAL BANK LTD (FBL)
+03-08-24 DIGITA-MUMBAI/ 1,77,000.00 1,81,682.79Cr
+NEFT-FDRLH24216705770-SRI MALLIKA TIMBERS
+04-08-24 IMPS/P2A/42171 5,000.00 1,76,682.79Cr
+IMPS/P2A/421719118073/XXXXXXXXXX3084/manovikas
+04-08-24 CHARGES FOR 5.90 1,76,676.89Cr
+CHARGES FOR :IMPS/P2A/421719118073/XXXXXXXX
+04-08-24 IMPS/P2A/42172 30,000.00 1,46,676.89Cr
+IMPS/P2A/421720375897/XXXXXXXXXX3264/shan
+04-08-24 CHARGES FOR 8.85 1,46,668.04Cr
+CHARGES FOR :IMPS/P2A/421720375897/XXXXXXXX
+05-08-24 Charges for 17.40 1,46,650.64Cr
+Charges for PORD Customer Payment :002147643266
+05-08-24 NEFT-BARBP2421 3 1,41,000.00 5,650.64Cr
+NEFT-BARBP24218739635-RAHUMATH B-STATE BANK OF IND
+07-08-24 SMS Charges 0.47 5,650.17Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 4,63,811.27 2,87,000.00 5,650.17Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 3
+SMS Charges for JUN 24
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+17-08-24 DIGITA-MUMBAI/ 1,77,000.00 1,82,650.17Cr
+NEFT-FDRLH24230512297-SRI MALLIKA TIMBERS
+28-08-24 DIGITA-MUMBAI/ 99,500.00 2,82,150.17Cr
+IMPS/P2A/424119263187/PERIYASAMYBARAT/NoRemarkIDB
+29-08-24 KRIDHA-KRISHNA 53,000.00 3,35,150.17Cr
+BY CASH
+29-08-24 IMPS/P2A/42421 3,15,696.00 19,454.17Cr
+IMPS/P2A/424213375938/XXXXXXXXXX1947/GstBill
+29-08-24 CHARGES FOR 23.60 19,430.57Cr
+CHARGES FOR :IMPS/P2A/424213375938/XXXXXXXX
+03-09-24 DIGITA-MUMBAI/ 1,40,000.00 1,59,430.57Cr
+NEFT-N247243242174783-MANI MARAKADAI
+03-09-24 IMPS/P2A/42471 40,000.00 1,19,430.57Cr
+IMPS/P2A/424715102149/XXXXXXXXXX3264/other
+03-09-24 CHARGES FOR 8.85 1,19,421.72Cr
+CHARGES FOR :IMPS/P2A/424715102149/XXXXXXXX
+03-09-24 IMPS/P2A/42471 1,00,000.00 19,421.72Cr
+IMPS/P2A/424719418105/XXXXXXXXXX4698/other
+03-09-24 CHARGES FOR 8.85 19,412.87Cr
+CHARGES FOR :IMPS/P2A/424719418105/XXXXXXXX
+04-09-24 Cash Handling 83.00 19,329.87Cr
+Cash Handling Chgs at Outstation brnchs:29-08-2024
+05-09-24 DIGITA-MUMBAI/ 1,77,000.00 1,96,329.87Cr
+NEFT-TMBLH24249965790-AHMED TIMBERS
+05-09-24 Charges for 17.40 1,96,312.47Cr
+Charges for PORD Customer Payment :002213908493
+05-09-24 NEFT-BARBW2424 1,77,000.00 19,312.47Cr
+NEFT-BARBW24249329556-ASHIQ-STATE BANK OF INDIA (S
+13-09-24 RTGS-DBSSR5202 2,00,000.00 2,19,312.47Cr
+RTGS-DBSSR52024091305201100-P NANDAGOPAL
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 6,32,837.70 8,46,500.00 2,19,312.47Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 3 of 10
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 4
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+13-09-24 IMPS/P2A/42571 1,00,000.00 1,19,312.47Cr
+IMPS/P2A/425717986042/XXXXXXXXXX3264/other
+13-09-24 CHARGES FOR 8.85 1,19,303.62Cr
+CHARGES FOR :IMPS/P2A/425717986042/XXXXXXXX
+13-09-24 IMPS/P2A/42571 1,00,000.00 19,303.62Cr
+IMPS/P2A/425717315215/XXXXXXXXXX4698/other
+13-09-24 CHARGES FOR 8.85 19,294.77Cr
+CHARGES FOR :IMPS/P2A/425717315215/XXXXXXXX
+26-09-24 SMS Charges 0.71 19,294.06Cr
+SMS Charges for AUG 24
+14-10-24 IMPS/P2A/42882 13,000.00 6,294.06Cr
+IMPS/P2A/428820571480/XXXXXXXXXX3084/MonthlyTrans
+14-10-24 CHARGES FOR 5.90 6,288.16Cr
+CHARGES FOR :IMPS/P2A/428820571480/XXXXXXXX
+15-10-24 SMS Charges 0.24 6,287.92Cr
+SMS Charges for SEP 24
+23-10-24 DIGITA-MUMBAI/ 25,000.00 31,287.92Cr
+IMPS/P2A/429718354369/SHAN A 1107/gdygFBL9189
+27-10-24 DIGITA-MUMBAI/ 1,77,000.00 2,08,287.92Cr
+IMPS/P2A/430112277785/SRI MALLIKA TIM/Suneer Teak
+27-10-24 IMPS/P2A/43011 78,000.00 1,30,287.92Cr
+IMPS/P2A/430118194079/XXXXXXXXXX3824/other
+27-10-24 CHARGES FOR 8.85 1,30,279.07Cr
+CHARGES FOR :IMPS/P2A/430118194079/XXXXXXXX
+28-10-24 DIGITA-MUMBAI/ 25,000.00 1,55,279.07Cr
+IMPS/P2A/430214512964/SHAN A 1107/vfhFBL91894
+28-10-24 IMPS/P2A/43021 1,54,865.00 414.07Cr
+IMPS/P2A/430214435004/XXXXXXXXXX1947/gst
+28-10-24 CHARGES FOR 17.70 396.37Cr
+CHARGES FOR :IMPS/P2A/430214435004/XXXXXXXX
+13-11-24 KRIDHA-KRISHNA 1,25,000.00 1,25,396.37Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 4,45,916.10 3,52,000.00 1,25,396.37Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 5
+BY CASH
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+13-11-24 IMPS/P2A/43181 1,01,392.00 24,004.37Cr
+IMPS/P2A/431811741433/XXXXXXXXXX1947/gst
+13-11-24 CHARGES FOR 17.70 23,986.67Cr
+CHARGES FOR :IMPS/P2A/431811741433/XXXXXXXX
+14-11-24 PRCR/KERALA 23,250.00 736.67Cr
+PRCR/KERALA STATE FINANCIAL/KOLLAM
+07-12-24 Cash Handling 295.00 441.67Cr
+Cash Handling Chgs at Outstation brnchs:13-11-2024
+13-12-24 MORUPA-TIRUCHI 1,29,800.00 1,30,241.67Cr
+BY N S MANI AGENCIES
+13-12-24 IMPS/P2A/43481 1,25,000.00 5,241.67Cr
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 4 of 10
+IMPS/P2A/434819969876/XXXXXXXXXX1040/other
+13-12-24 CHARGES FOR 17.70 5,223.97Cr
+CHARGES FOR :IMPS/P2A/434819969876/XXXXXXXX
+17-12-24 0000-MUMBAI/LE 147.50 5,076.47Cr
+LEDGER FOLIO CHARGES - CA
+18-12-24 DIGITA-MUMBAI/ 3,00,000.00 3,05,076.47Cr
+NEFT-P353240389305952-GOWSALYA TIMBERS
+18-12-24 IMPS/P2A/43531 3,00,000.00 5,076.47Cr
+IMPS/P2A/435316811991/XXXXXXXXXX3833/other
+18-12-24 CHARGES FOR 23.60 5,052.87Cr
+CHARGES FOR :IMPS/P2A/435316811991/XXXXXXXX
+19-12-24 SMS Charges 0.24 5,052.63Cr
+SMS Charges for NOV 24
+30-12-24 RTGS-SIBLR5202 3,54,000.00 3,59,052.63Cr
+RTGS-SIBLR52024123000151526-ANNAI TIMBER AND TILES
+30-12-24 ATM/ 6,000.00 3,53,052.63Cr
+30-12-24 CHARGES FOR 24.78 3,53,027.85Cr
+CHARGES FOR :ATM/CASH/436515007233/XXXXXXXX
+30-12-24 IMPS/P2A/43651 1,50,000.00 2,03,027.85Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 7,06,168.52 7,83,800.00 2,03,027.85Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 6
+IMPS/P2A/436518599866/XXXXXXXXXX2043/Consultingfe
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+30-12-24 CHARGES FOR 17.70 2,03,010.15Cr
+CHARGES FOR :IMPS/P2A/436518599866/XXXXXXXX
+30-12-24 IMPS/P2A/43651 1,45,000.00 58,010.15Cr
+IMPS/P2A/436518669526/XXXXXXXXXX4477/Miscellaneou
+30-12-24 CHARGES FOR 17.70 57,992.45Cr
+CHARGES FOR :IMPS/P2A/436518669526/XXXXXXXX
+31-12-24 ATM/ 2,000.00 55,992.45Cr
+31-12-24 CHARGES FOR 24.78 55,967.67Cr
+CHARGES FOR :ATM/CASH/436616013376/XXXXXXXX
+03-01-25 VJTHTI-SANNADH 2,00,000.00 2,55,967.67Cr
+BY CASH
+03-01-25 ATM/ 15,000.00 2,40,967.67Cr
+03-01-25 ATM/ 15,000.00 2,25,967.67Cr
+03-01-25 ATM/ 15,000.00 2,10,967.67Cr
+03-01-25 ATM/ 15,000.00 1,95,967.67Cr
+03-01-25 ATM/ 15,000.00 1,80,967.67Cr
+03-01-25 ATM/ 15,000.00 1,65,967.67Cr
+03-01-25 CHARGES FOR 11.80 1,65,955.87Cr
+CHARGES FOR :ATM/CASH/2437/XXXXXXXXXXXX9912
+03-01-25 ATM/ 10,000.00 1,55,955.87Cr
+03-01-25 CHARGES FOR 11.80 1,55,944.07Cr
+CHARGES FOR :ATM/CASH/2438/XXXXXXXXXXXX9912
+03-01-25 IMPS/P2A/50032 50,000.00 1,05,944.07Cr
+IMPS/P2A/500322694133/XXXXXXXXXX3833/TravelExpens
+03-01-25 CHARGES FOR 8.85 1,05,935.22Cr
+CHARGES FOR :IMPS/P2A/500322694133/XXXXXXXX
+07-01-25 KRIDHA-KRISHNA 2,41,000.00 3,46,935.22Cr
+BY CASH
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 2,97,092.63 4,41,000.00 3,46,935.22Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 5 of 10
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 7
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+07-01-25 IMPS/P2A/50071 2,45,000.00 1,01,935.22Cr
+IMPS/P2A/500712826130/XXXXXXXXXX2659/other
+07-01-25 CHARGES FOR 23.60 1,01,911.62Cr
+CHARGES FOR :IMPS/P2A/500712826130/XXXXXXXX
+07-01-25 IMPS/P2A/50071 1,00,000.00 1,911.62Cr
+IMPS/P2A/500717746017/XXXXXXXXXX7641/other
+07-01-25 CHARGES FOR 8.85 1,902.77Cr
+CHARGES FOR :IMPS/P2A/500717746017/XXXXXXXX
+11-01-25 DIGITA-MUMBAI/ 80,000.00 81,902.77Cr
+IMPS/P2A/501107891688/SHAN A/SEGHJKMB919847998460
+11-01-25 DIGITA-MUMBAI/ 20,000.00 1,01,902.77Cr
+IMPS/P2A/501107882853/SHAN A 1107/fdfvFBL9189
+11-01-25 IMPS/P2A/50111 1,00,000.00 1,902.77Cr
+IMPS/P2A/501110755388/XXXXXXXXXX1798/other
+11-01-25 CHARGES FOR 8.85 1,893.92Cr
+CHARGES FOR :IMPS/P2A/501110755388/XXXXXXXX
+11-01-25 DIGITA-MUMBAI/ 2,00,000.00 2,01,893.92Cr
+IMPS/P2A/501119254704/BARATHI P 120/HiuIDB91701
+13-01-25 DIGITA-MUMBAI/ 15,000.00 2,16,893.92Cr
+IMPS/P2A/501315034229/SHAN A/SEGHJKMB919847998460
+13-01-25 IMPS/P2A/50131 2,15,000.00 1,893.92Cr
+IMPS/P2A/501315865154/XXXXXXXXXX3833/other
+13-01-25 CHARGES FOR 23.60 1,870.32Cr
+CHARGES FOR :IMPS/P2A/501315865154/XXXXXXXX
+15-01-25 SMS Charges 0.47 1,869.85Cr
+SMS Charges for DEC 24
+17-01-25 VJKLAM-KOLLAM, 1,50,000.00 1,51,869.85Cr
+BY CASH SUJITH V SUNILAN
+17-01-25 IMPS/P2A/50171 50,000.00 1,01,869.85Cr
+IMPS/P2A/501715827613/XXXXXXXXXX2659/other
+17-01-25 CHARGES FOR 8.85 1,01,861.00Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 7,10,074.22 4,65,000.00 1,01,861.00Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 8
+CHARGES FOR :IMPS/P2A/501715827613/XXXXXXXX
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+17-01-25 IMPS/P2A/50171 1,00,000.00 1,861.00Cr
+IMPS/P2A/501715053711/XXXXXXXXXX3264/other
+17-01-25 CHARGES FOR 8.85 1,852.15Cr
+CHARGES FOR :IMPS/P2A/501715053711/XXXXXXXX
+20-01-25 DIGITA-MUMBAI/ 2,00,000.00 2,01,852.15Cr
+NEFT-CNRBH00013497079-GOWSALYA TIMBERS
+20-01-25 IMPS/P2A/50201 1,20,000.00 81,852.15Cr
+IMPS/P2A/502015189587/XXXXXXXXXX2659/other
+20-01-25 CHARGES FOR 17.70 81,834.45Cr
+CHARGES FOR :IMPS/P2A/502015189587/XXXXXXXX
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 6 of 10
+21-01-25 IMPS/P2A/50211 10,000.00 71,834.45Cr
+IMPS/P2A/502110180872/XXXXXXXXXX7259/other
+21-01-25 CHARGES FOR 5.90 71,828.55Cr
+CHARGES FOR :IMPS/P2A/502110180872/XXXXXXXX
+23-01-25 IMPS/P2A/50231 70,000.00 1,828.55Cr
+IMPS/P2A/502317261328/XXXXXXXXXX8282/other
+23-01-25 CHARGES FOR 8.85 1,819.70Cr
+CHARGES FOR :IMPS/P2A/502317261328/XXXXXXXX
+25-01-25 DIGITA-MUMBAI/ 2,00,000.00 2,01,819.70Cr
+NEFT-0125i29113463421-PERIYASAMY
+25-01-25 UPI/9043410085 41008524 1.00 2,01,818.70Cr
+UPI/904341008524/15:32:08/UPI/shan1234s@axl/Payme
+25-01-25 IMPS/P2A/50252 2,00,000.00 1,818.70Cr
+IMPS/P2A/502522929443/XXXXXXXXXX6853/other
+25-01-25 CHARGES FOR 17.70 1,801.00Cr
+CHARGES FOR :IMPS/P2A/502522929443/XXXXXXXX
+27-01-25 DIGITA-MUMBAI/ 1,70,000.00 1,71,801.00Cr
+NEFT-HDFCH00023955599-MANI MARAKADAI
+27-01-25 IMPS/P2A/50271 70,000.00 1,01,801.00Cr
+IMPS/P2A/502716299649/XXXXXXXXXX3264/other
+27-01-25 CHARGES FOR 8.85 1,01,792.15Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 5,70,068.85 5,70,000.00 1,01,792.15Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 9
+CHARGES FOR :IMPS/P2A/502716299649/XXXXXXXX
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+27-01-25 UPI/4525303509 30350922 50,000.00 51,792.15Cr
+UPI/452530350922/16:26:32/UPI/8078275930@ibl/Paym
+27-01-25 UPI/5685143924 14392453 50,000.00 1,792.15Cr
+UPI/568514392453/16:28:07/UPI/8136964732@axl/Paym
+29-01-25 UPI/5454591951 59195131 350.00 1,442.15Cr
+UPI/545459195131/21:08:50/UPI/7356524047@ibl/Paym
+04-02-25 RTGS-CNRBR5202 2,00,000.00 2,01,442.15Cr
+RTGS-CNRBR52025020499067626-GOWSALYA TIMBERS
+04-02-25 IMPS/P2A/50351 1,50,000.00 51,442.15Cr
+IMPS/P2A/503516905603/XXXXXXXXXX2659/other
+04-02-25 CHARGES FOR 17.70 51,424.45Cr
+CHARGES FOR :IMPS/P2A/503516905603/XXXXXXXX
+04-02-25 UPI/0111092049 9204925 50,000.00 1,424.45Cr
+UPI/011109204925/16:46:15/UPI/8943382794-2@ybl/Pa
+06-02-25 BY SHAN A 5,07,000.00 5,08,424.45Cr
+BY SHAN A
+06-02-25 IMPS/P2A/50371 3,00,000.00 2,08,424.45Cr
+IMPS/P2A/503717055228/XXXXXXXXXX1947/gst
+06-02-25 CHARGES FOR 23.60 2,08,400.85Cr
+CHARGES FOR :IMPS/P2A/503717055228/XXXXXXXX
+06-02-25 Charges for 17.40 2,08,383.45Cr
+Charges for PORD Customer Payment :002570682669
+06-02-25 NEFT-BARBR2503 2,00,000.00 8,383.45Cr
+NEFT-BARBR25037595126-GIREESH M ASSOCIATES-I.C.I.C
+07-02-25 IMPS/P2A/50381 4,880.00 3,503.45Cr
+IMPS/P2A/503812383882/XXXXXXXXXX1947/gst
+07-02-25 CHARGES FOR 5.90 3,497.55Cr
+CHARGES FOR :IMPS/P2A/503812383882/XXXXXXXX
+07-02-25 UPI/5261090214 9021427 2,000.00 1,497.55Cr
+UPI/526109021427/13:06:47/UPI/shan1234s@axl/Payme
+07-02-25 UPI/3424664145 66414522 200.00 1,297.55Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 8,07,494.60 7,07,000.00 1,297.55Cr
+----------------------------------------------------------------------------------------------------------------------------------
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 7 of 10
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 10
+UPI/342466414522/19:10:24/UPI/7356524047@ibl/Paym
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+10-02-25 RTGS-SIBLR5202 3,54,000.00 3,55,297.55Cr
+RTGS-SIBLR52025021000121122-ANNAI TIMBER AND TILES
+10-02-25 IMPS/P2A/50411 3,49,000.00 6,297.55Cr
+IMPS/P2A/504115476988/XXXXXXXXXX2043/gst
+10-02-25 CHARGES FOR 23.60 6,273.95Cr
+CHARGES FOR :IMPS/P2A/504115476988/XXXXXXXX
+10-02-25 UPI/0494161704 16170419 46,500.00 52,773.95Cr
+UPI/049416170419/16:13:50/UPI/9787456989-3@ibl/Pa
+10-02-25 UPI/9357783298 78329851 200.00 52,573.95Cr
+UPI/935778329851/18:24:20/UPI/7356524047@ibl/Paym
+11-02-25 UPI/8779256246 25624666 46,500.00 6,073.95Cr
+UPI/877925624666/18:23:37/UPI/9847164666@axl/Paym
+12-02-25 Cash Handling 517.00 5,556.95Cr
+Cash Handling Chgs at Outstation brnchs:03-01-2025
+12-02-25 Cash Handling 638.00 4,918.95Cr
+Cash Handling Chgs at Outstation brnchs:07-01-2025
+12-02-25 Cash Handling 370.00 4,548.95Cr
+Cash Handling Chgs at Outstation brnchs:17-01-2025
+14-02-25 UPI/5045284964 28496464 1.00 4,549.95Cr
+UPI/504528496464/11:21:35/UPI/sushmay097-2@okicic
+15-02-25 UPI/9888545070 54507071 3,900.00 649.95Cr
+UPI/988854507071/14:13:19/UPI/subi.shivani@okhdfc
+20-02-25 SMS Charges 0.71 649.24Cr
+SMS Charges for JAN 25
+21-02-25 UPI/7617620862 62086240 25,000.00 25,649.24Cr
+UPI/761762086240/14:37:03/UPI/9787456989-3@ibl/Pa
+21-02-25 DIGITA-MUMBAI/ 1,18,000.00 1,43,649.24Cr
+NEFT-CNRBH00025399174-SRI PERIYANAYAGI TRADERS
+21-02-25 UPI/6896808562 80856210 35,000.00 1,08,649.24Cr
+UPI/689680856210/17:58:01/UPI/9442488773@ybl/Paym
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 4,36,149.31 5,43,501.00 1,08,649.24Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 11
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+21-02-25 DIGITA-MUMBAI/ 2,00,000.00 3,08,649.24Cr
+NEFT-0811OP5149649018-P NANDAGOPAL
+21-02-25 UPI/1057586937 58693716 50,000.00 2,58,649.24Cr
+UPI/105758693716/20:58:22/UPI/7356524047@ibl/Paym
+22-02-25 IMPS/P2A/50530 1,00,000.00 1,58,649.24Cr
+IMPS/P2A/505307564894/XXXXXXXXXX7046/other
+22-02-25 CHARGES FOR 8.85 1,58,640.39Cr
+CHARGES FOR :IMPS/P2A/505307564894/XXXXXXXX
+22-02-25 UPI/0805151618 15161813 1,300.00 1,57,340.39Cr
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 8 of 10
+UPI/080515161813/14:37:01/UPI/7356524047@ibl/Paym
+22-02-25 IMPS/P2A/50531 80,000.00 77,340.39Cr
+IMPS/P2A/505314258084/XXXXXXXXXX3038/other
+22-02-25 CHARGES FOR 8.85 77,331.54Cr
+CHARGES FOR :IMPS/P2A/505314258084/XXXXXXXX
+22-02-25 UPI/4005079030 7903022 500.00 76,831.54Cr
+UPI/400507903022/17:02:16/UPI/9061697634@ibl/Paym
+23-02-25 UPI/4232836017 83601734 20,000.00 56,831.54Cr
+UPI/423283601734/11:00:01/UPI/7356524047@ibl/Paym
+24-02-25 UPI/7966056505 5650571 1,250.00 55,581.54Cr
+UPI/796605650571/13:27:01/UPI/7356524047@ibl/Paym
+25-02-25 KRIDHA-KRISHNA 49,500.00 1,05,081.54Cr
+BY CASH
+25-02-25 UPI/3663406096 40609672 70,000.00 35,081.54Cr
+UPI/366340609672/14:46:01/UPI/9048315160@ybl/Paym
+25-02-25 UPI/1805221155 22115596 15,000.00 20,081.54Cr
+UPI/180522115596/22:03:38/UPI/9633126826@ibl/Paym
+25-02-25 DIGITA-MUMBAI/ 35,000.00 55,081.54Cr
+NEFT-0225i29167179641-PERIYASAMY
+26-02-25 UPI/5720945962 94596209 30,600.00 24,481.54Cr
+UPI/572094596209/15:41:55/UPI/8592874586@ybl/Paym
+27-02-25 UPI/2983321169 32116957 925.00 23,556.54Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 3,69,592.70 2,84,500.00 23,556.54Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 12
+UPI/298332116957/13:04:26/UPI/7356524047@ibl/Paym
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+27-02-25 UPI/4956937786 93778619 600.00 22,956.54Cr
+UPI/495693778619/13:44:14/UPI/bhqr.2233758A@sib/P
+27-02-25 UPI/2384816053 81605325 19,000.00 3,956.54Cr
+UPI/238481605325/19:34:13/UPI/9809415689-2@ibl/Pa
+28-02-25 UPI/6655222051 22205135 100.00 4,056.54Cr
+UPI/665522205135/14:57:40/UPI/7356524047@ibl/Paym
+28-02-25 UPI/0347692929 69292902 350.00 3,706.54Cr
+UPI/034769292902/14:58:10/UPI/7356524047@ibl/Paym
+01-03-25 UPI/1015389020 38902047 1,000.00 2,706.54Cr
+UPI/101538902047/14:41:45/UPI/shan1234s@axl/Payme
+02-03-25 UPI/2099431944 43194421 250.00 2,956.54Cr
+UPI/209943194421/06:01:29/UPI/7356524047@ibl/Paym
+05-03-25 Cash Handling 75.00 2,881.54Cr
+Cash Handling Chgs at Outstation brnchs:25-02-2025
+05-03-25 UPI/6786368159 36815945 1,000.00 1,881.54Cr
+UPI/678636815945/09:19:27/UPI/shan1234s@axl/Payme
+05-03-25 UPI/2080860083 86008398 5,000.00 6,881.54Cr
+UPI/208086008398/20:50:47/UPI/9787456989-3@ibl/Pa
+05-03-25 UPI/8251943396 94339672 5,200.00 1,681.54Cr
+UPI/825194339672/20:52:42/UPI/shan1234s@axl/Payme
+08-03-25 UPI/9097006935 693521 352.00 1,329.54Cr
+UPI/909700693521/10:27:40/UPI/AIRTELPREDIRECT1@ax
+12-03-25 UPI/5301487206 48720642 352.00 977.54Cr
+UPI/530148720642/11:44:01/UPI/AIRTELPREDIRECT1@yb
+16-03-25 SMS Charges 1.18 976.36Cr
+SMS Charges for FEB 25
+18-03-25 0000-MUMBAI/LE 147.50 828.86Cr
+LEDGER FOLIO CHARGES - CA
+19-03-25 UPI/6665454400 45440033 26.00 802.86Cr
+UPI/666545440033/19:55:02/UPI/AIRTELPREDIRECT2@ax
+19-03-25 UPI/0923533080 53308053 50.00 752.86Cr
+----------------------------------------------------------------------------------------------------------------------------------
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 9 of 10
+Page Total: 28,153.68 5,350.00 752.86Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 13
+UPI/092353308053/19:56:29/UPI/7510810164@ibl/Paym
+----------------------------------------------------------------------------------------------------------------------------------
+A/C Number : 86910200000006 Account Open Date :06-06-2024
+Statement of account for the period of 06-06-2024 to 31-03-2025
+----------------------------------------------------------------------------------------------------------------------------------
+DATE PARTICULARS CHQ.NO. WITHDRAWALS DEPOSITS BALANCE
+----------------------------------------------------------------------------------------------------------------------------------
+20-03-25 DIGITA-MUMBAI/ 1,88,800.00 1,89,552.86Cr
+NEFT-CNRBH00033532242-SRI PERIYANAYAGI TRADERS
+20-03-25 UPI/7176264337 26433756 150.00 1,89,402.86Cr
+UPI/717626433756/18:29:33/UPI/paytm.s17w46z@pty/P
+20-03-25 UPI/4731447337 44733791 30.00 1,89,372.86Cr
+UPI/473144733791/18:35:33/UPI/Q663877673@ybl/Paym
+20-03-25 UPI/0506246116 24611649 88,000.00 1,01,372.86Cr
+UPI/050624611649/21:38:51/UPI/9847164666@axl/Paym
+21-03-25 IMPS/P2A/50801 1,00,000.00 1,372.86Cr
+IMPS/P2A/508010539530/XXXXXXXXXX2933/other
+21-03-25 CHARGES FOR 8.85 1,364.01Cr
+CHARGES FOR :IMPS/P2A/508010539530/XXXXXXXX
+21-03-25 RTGS-HDFCR5202 3,99,999.68 4,01,363.69Cr
+RTGS-HDFCR52025032152434294-TVSVEHICLEMOBILITYSOLU
+21-03-25 IMPS/P2A/50801 4,00,000.00 1,363.69Cr
+IMPS/P2A/508017602617/XXXXXXXXXX6853/other
+21-03-25 CHARGES FOR 23.60 1,340.09Cr
+CHARGES FOR :IMPS/P2A/508017602617/XXXXXXXX
+23-03-25 UPI/5364718981 71898168 250.00 1,090.09Cr
+UPI/536471898168/19:32:32/UPI/paytm.s17w46z@pty/P
+23-03-25 UPI/0808866780 86678020 145.00 945.09Cr
+UPI/080886678020/19:49:01/UPI/ameyamedicals99@ind
+29-03-25 UPI/4596662925 66292514 500.00 445.09Cr
+UPI/459666292514/15:32:15/UPI/7356524047@ibl/Paym
+30-03-25 UPI/4321490832 49083239 50.00 395.09Cr
+UPI/432149083239/20:00:25/UPI/Vyapar.172721131541
+30-03-25 UPI/5063107862 10786246 30.00 365.09Cr
+UPI/506310786246/20:12:58/UPI/paytm.s1315af@pty/P
+30-03-25 UPI/1845339584 33958481 320.00 45.09Cr
+UPI/184533958481/20:49:19/UPI/gireeshsruthi423@ok
+----------------------------------------------------------------------------------------------------------------------------------
+Page Total: 5,89,507.45 5,88,799.68 45.09Cr
+----------------------------------------------------------------------------------------------------------------------------------
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+BANK OF BARODA Date :12-05-2025
+BHARANIKKAVU Time : 16:01:04
+ADDRESS:
+HELPLINE NO. : 1800223344/18001024455/18002584455
+BRANCH PHONE NO. :
+MICR CODE: 690012006 IFSC CODE: BARB0BHARAN Page No: 14
+Grand Total: 61,56,908.59 61,56,953.68 45.09Cr
+----------------------------------------------------------------------------------------------------------------------------------
+As On 12-05-2025
+----------------------------------------------------------------------------------------------------------------------------------
+ClrBal: 284.21 Unclr Bal: 0.00 Lien: 0.00*
+----------------------------------------------------------------------------------------------------------------------------------
+We are committed to treat customers fairly as per BCSBI code of Bank's
+commitment to customers and Micro and Small Enterprises.
+For details please visit our website www.bankofbaroda.com or www.bcsbi.org.in
+Please contact your branch for registration of your MOBILE NUMBER and E-MAIL ID
+to get transaction alerts, other alerts and balance of your account through SMS.
+ABBREVIATIONS USED
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025
+
+Transaction Details Page 10 of 10
+Retd - Returned Cheque SI - Standing Instructions
+EC - Error Corrected CBI - Cheque Book Issue
+SP - Stop Payment ECS - Electronic Clearing Service
+INT - Interest INCHGS-Incidental charges
+OBC - Outward Bill for collection MB - Minimum Balance
+DAUE - Drawing Against Uncleared Effect ISLIXN - Inter sol transactions
+Pending penal charges (Not included in outstanding balance) : 0
+This is a computer generated statement.
+****END OF STATEMENT****
+Note: Cheques received in inward clearing will be considered for debiting/
+returning on the basis opening balance in account
+Unless the constituent notifies the bank of any discrepancy in this statement
+within 15 days from the date of statement, it will be construed that the
+transaction(s) in the statement are correct.
+https://cbdrpt101.bankofbaroda.co.in:22000/finbranch/arjspmorph/INFENG/tran_rpt.j... 12-05-2025

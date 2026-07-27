@@ -1,0 +1,38 @@
+Account Name :SRIVIDYA CREATIONS
+Address 6D LB FOMRA HUES BYPASS SERVICE PORUR LINK ROAD
+VANAGARAM
+Chennai
+33-600095
+IN
+Date :18 Jul 2026
+Account Number :00000044504513898
+Account Description :CA-SILVER-PUB-OTH-ALL-INR
+Branch :VELACHERY
+Drawing Power :0.00
+Interest Rate(% p.a.) :0.0
+MOD Balance :0.00
+CIF No. :92257829270
+IFS Code :SBIN0007993
+MICR Code :600002085
+Balance as on 1 Jul 2026 :62.15
+Account Statement from 1 Jul 2026 to 10 Jul 2026
+Please do not share your ATM, Debit/Credit card number, PIN and OTP with anyone over mail,
+SMS, phone call or any other media. Bank never asks for such information.
+**This is a computer generated statement and does not require a signature.
+Txn Value Description Ref Branch Debit Credit Balance
+Date Date No./Cheque Code
+No.
+9 Jul 9 Jul BY TRANSFER 4430 90,000.00 90,062.15
+2026 2026 TRANSFER- FROM
+NEFT*CBIN0 99509044300
+283636*CBIN /
+H261908398
+29*SRI
+VIDYA
+CREATI-
+10 Jul 10 Jul DEBIT- / 61076 81,647.00 8,415.15
+2026 2026 ACHDr
+SCBL000170
+00006293 TP
+ACH
+IIFLHOM-
