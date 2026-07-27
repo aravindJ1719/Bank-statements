@@ -1,0 +1,16 @@
+Account Statement
+01 Jan 2026 - 01 Jul 2026
+Manjula . Account No. 0312955968
+Account Type Savings
+CRN xxxxxx021
+Branch Chennai - Adyar
+No 40,Rajiv Gandhi Street
+Account Status Active
+Lakshmi Nagar
+Nominee Registered No
+Maduravoyal Erikarai
+Tiruvallur - 600095 Currency INDIAN RUPEE
+Tamilnadu - India
+MICR 600485004 IFSC Code KKBK0000463
+Savings Account Transactions
+# Date Description Chq/Ref. No. Withdrawal (Dr.) Deposit (Cr.) Balance

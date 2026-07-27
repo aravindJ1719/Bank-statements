@@ -1,0 +1,20 @@
+Account Statement
+as of 07-07-2026 12:47:52
+DHANUSRI GOAT FARM
+3/218
+GOPALAKRISHNAPURAM
+KAMBIKUDI KARIAPATTI
+VIRUDHUNAGAR
+Tamil Nadu - 626106
+Account Name DHANUSRI GOAT FARM
+Account Holder(s) Name DHANUSRI GOAT FARM / KARUPPANAN KRISHNAN (AUS)
+Account Number 1655135000005719
+Branch MADURAI - THIRUNAGAR
+Customer Id 28060929
+Account Currency INR
+Opening Balance ( Balance B/F ) 2,02,726.52
+Closing Balance 1,41,264.45
+Searched by Specify Period
+From Date 01-01-2026
+To Date 07-07-2026
+Transaction Date Value Date Branch Cheque No Description Debit Credit Balance

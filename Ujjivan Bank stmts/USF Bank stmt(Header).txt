@@ -1,0 +1,21 @@
+27-02-2026 17:30:24 UJJIVAN SMALL FINANCE BANK, ERODE Page 1
+REP31
+Customer Account Ledger Report
+Report To : BM
+SolId :
+Set Id : 1169 ERODE
+Gl Sub Head Code :
+Acct Range : 1169120260000546 to 1169120260000546
+Currency Code :
+Account Label :
+Open/Closed A/cs (O/C) :
+Period : 01-09-2025 to 27-02-2026
+Limit Details : Y
+Order by GL. Date.
+27-02-2026 17:30:24 UJJIVAN SMALL FINANCE BANK ERODE Page 2
+Customer Account Ledger Report from 01-09-2025 to 27-02-2026
+Service OutLet : 1169 ERODE
+Account No : 1169120260000546 INR SRI LAKSHMINARAYANA PUC
+Gl Sub Head Code :
+Opening Balance : 0.00
+Peg Review date : 31-12-2099

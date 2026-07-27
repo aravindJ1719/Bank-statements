@@ -1,0 +1,10 @@
+Name : NEMA FEEDS COMPANY Customer Id : 1195206301
+Address : 151/1, PERIYAKULAM RO Mobile Number : 9626632177
+AD,UNJAMPATTI,.. Account Number : 1195120040000135
+City : THENI Currency : INR
+State : TAMIL NADU Account Scheme : BUSINESS EDGE ACCOUNT
+Pincode : 625531 Branch Name : BODINAYAKANUR
+Country : INDIA Branch Id : 1195
+Nomination : B NEMARANI MICR Code : 625761302
+Mode of Operation : PROPRIETOR IFSC Code : UJVN0001195
+Joint Holder : KIRSHNAMOORTHY B
