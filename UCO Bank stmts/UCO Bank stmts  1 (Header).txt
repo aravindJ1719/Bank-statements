@@ -1,0 +1,23 @@
+Account Details
+General Details
+Number: 21550510001448 Nickname: FABA AGENCIES
+IFSC : UCBA0002155 Name: FABA AGENCIES
+Status: Active Type: Cash Credit
+Currency: INR Open Date: 31/05/2025
+Branch: VYTILA Drawing Power: INR 20,00,00,000.00
+Debit Accrued Interest: -NIL- Credit Accrued Interest: -NIL-
+Address Line1: 32/3071 F Address Line 2 : N H BYPASS ROAD,VYTTILA
+Contact Number: -NIL-
+Balance Details
+Available Balance: INR 6,49,764.59 Total Balance: INR -9,93,28,093.15
+Ledger Balance: INR -9,93,28,093.15 Effective Available Balance: INR 6,49,764.59
+Unclear Balance: INR 0.00
+Primary Account: Y Sanction Limit: INR 10,00,00,000.00
+Total Value of Pending Debit 0
+Card Authorizations:
+Date From(dd/MM/yyyy): 01/12/2025 Date To(dd/MM/yyyy): 31/12/2025
+Transactions for: -NIL-
+Last N Transactions: -NIL- Amount Type: All
+Amount From: -NIL- Amount To: -NIL-
+Instrument ID From: -NIL- Instrument ID To: -NIL-
+Choose Statement: -NIL-
