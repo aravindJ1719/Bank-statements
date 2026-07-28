@@ -1,0 +1,7 @@
+Account Details
+Account Number : 8360200000019114 - INR Account Name : SRS TRADERS - 8360200000019114 -
+INR
+Product Type : CURRENT ACCOUNT ODACC
+Opening Balance : 100,000.00 01-Jan-2026 Earmark Amount : 0.00
+Ledger Balance : -9,415,441.00 21-Jul-2026 Overdraft Limit : 10,000,000.00
+Available Balance : 584,559.00 21-Jul-2026
