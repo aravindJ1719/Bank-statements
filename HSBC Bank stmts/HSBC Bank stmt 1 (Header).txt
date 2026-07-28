@@ -1,0 +1,24 @@
+| Statement details
+Account name VGN PROJECTS ESTATES PVT LTD Closing ledger balance brought forward 553,991.83
+Account number 042-823666-001 From 22 Mar 2024
+Bank name HK and Shanghai Banking Corp Ltd Closing available balance brought forward 145.83
+Currency INR From 22 Mar 2024
+Location India
+BIC HSBCINBB Current ledger balance 553,991.83
+IBAN Not Available As at 23 Mar 2024 04:24
+Account status Active Current available balance 145.83
+Account type Current account As at 23 Mar 2024 04:24
+Specified date range 01 Oct 2023 to 22 Mar 2024
+Value Date Customer reference Debit amount Credit amount Balance Time Post Date Bank reference TRN type
+Balance as at close 22 Mar 2024 553,991.83
+22 Mar 2024 NONREF 145.00 553,991.83 23:42 22 Mar 2024 NONREF TRANSFER
+Narrative IMPS, 408223103408, USHA SUDHAGAR 19471610000724, VGN Fairmount D3A USHA SUDHAGAR, 19471610000724/71390000000/98843824 HSBC0600002/042823666001, IMPS/042823666001
+25 Mar 2024 901367 553,846.00 553,846.83 18:12 22 Mar 2024 NONREF TRANSFER
+Narrative Location:CHENNAI, INDIAN OVERSEAS BANK
+22 Mar 2024 2023VD0019000608 -507,806.00 0.83 17:25 22 Mar 2024 B082000167230001 TRANSFER
+Narrative IN HSBC 042-823666-003
+Balance brought forward 22 Mar 2024 507,806.83
+Balance as at close 21 Mar 2024 507,806.83
+22 Mar 2024 748486 505,000.00 507,806.83 18:52 21 Mar 2024 NONREF TRANSFER
+Narrative Location:CHENNAI, INDUSIND BANK LTD.
+23 Mar 2024 | Account number 042-823666-001 Page 1 of 101

@@ -1,0 +1,20 @@
+STATEMENT OF ACCOUNT from 01/01/2026 to 31/01/2026 for Account Number 895339941.
+INDIAN BANK
+SOUTH MASI STREET(MDU)
+IFSC CODE:IDIB000M129
+101, South Masi Street , Madurai , Tamil Nadu
+Branch Code :01356
+Account Number : 895339941
+Product type : CA-GEN-PUB-METRO/URBAN-INR
+KRISHNA HALLMARKING CENTRE PRIVATE LIMIT ED
+569 RAJA STREET
+STREET
+COIMBATORE
+COIMBATORE,,, - 641001
+Nominee Name :No
+Email : krishnahallmark@yahoo.co.in
+Statement Date :Tue Feb 17 14:14:41 IST 2026
+Cleared Balance :4868.50
+Uncleared Amount :0.00
+Drawing Power :0.00
+Interest Rate : 14.800

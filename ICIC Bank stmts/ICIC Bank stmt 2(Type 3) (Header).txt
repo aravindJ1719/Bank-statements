@@ -1,0 +1,20 @@
+Detailed
+Statement
+Name: HOTEL RADHA PRIVATE LIMITED A/C Branch: CHENNAI - CENOTAPH ROAD
+Address: 16,BISHOP,WALLACE AVENUE Branch Address: 1, CENOTAPH ROAD,
+EAST,MYLAPORE,,CIT CHENNAI.,CHENNAI|,TAMIL
+COLONY,CHENNAI,600004,TAMIL NADU,INDIA
+NADU,INDIA
+A/C No: 235105000519 A/C Type: CAA
+Jt. Holder: Cust ID: 574197595
+Transaction Date 01/01/2026 Branch Code: 0001
+from:
+Transaction Period: From 01/01/2026 To 30/06/2026 IFSC Code: ICIC0000001
+Statement 14/07/2026 Account Currency: INR
+Request/Download
+Date:
+Advanced Search
+Amount from: NA To NA
+Cheque number from: NA To NA
+Transaction remarks:
+Transaction type: CR

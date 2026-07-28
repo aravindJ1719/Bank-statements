@@ -1,0 +1,20 @@
+Customer Details Branch Details
+Account Holder Name : GURU SAI TRANSPORT
+Sol Id/Branch Code : 1142
+AND MANAGEMENT
+SERVICES Account Branch : CHENGALPET
+Address : OLD NO 21 NEW NO 46 Address : IDBI BANK LTD.,64/1,
+ALAGESAN ROAD A,VEDACHALA
+VEDACH,NAGAR NAGAR,,CHENGALPET,
+CHENGALPET,KPM,TN, TAMIL NADU,603001
+603001 Branch IFSC Code : IBKL0001142
+Account No : 1142102000005753 Branch Email Id : IBKL0001142@idbi.co.in
+Account Opening Date : 09-05-2023 MICR CODE : 600259028
+Account Status : Active
+Currency : INR
+Nominee Registered : Yes
+CKYC Number :
+Nominee Details
+Name of the Nominee Percentage Relationship with If Nominee is Minor,
+Account Holder Guardian Name
+SURESH KUMAR 100 Husband -

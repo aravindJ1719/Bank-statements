@@ -1,0 +1,13 @@
+A ccount statement
+Account details
+Account name: MARUTHI TRADERS Account type: Current Account
+Account number: 228605006584 Account currency: INR
+Communication 53 2,SHANMUGAM IFSC code: ICIC0002286
+address: UDHAYAKUMAR,PALLI VAASAL
+STREET,SANTHAPETTAI,TIRUKKOYILU
+R,KELAT,605766
+Customer ID: 589271283
+Balance
+Total effective ₹ 177143.43
+available:
+Available balance: ₹ 177143.43
