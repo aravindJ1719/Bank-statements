@@ -1,0 +1,30 @@
+===PAGE 1===
+MY TRANSACTIONS
+Search Criteria
+Account: Loan
+01/07/2026
+Transaction Date From:(dd/MM/yyyy):
+18/07/2026
+Transaction Date To:(dd/MM/yyyy):
+Transaction Period:
+(Specify N - number of transactions)
+Last N Transactions:
+Category: All
+Advanced Search Criteria
+Amount From:
+Amount To:
+Instrument ID From:
+Instrument ID To:
+Amount Type: All
+Nature Of Transaction:
+Transactions List - -SAVOURY FAMILY RESTAURANT (INR) - 0540260850000001
+Amo
+Instrument ID Transaction Value Nature Of Transaction Transaction Catego Amount Account Transaction Split
+unt
+Date Date Remarks ry Type Balance
+Cr.
+Loan Recovery 94,0
+Uncate
+For0540260850000 50.0 -18,55,533.00
+02/07/2026 gorized No
+001 0
