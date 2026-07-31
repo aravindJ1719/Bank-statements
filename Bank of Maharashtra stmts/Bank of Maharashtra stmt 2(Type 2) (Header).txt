@@ -1,0 +1,17 @@
+===PAGE 1===
+Account Details
+Account No 60488234764 Account Open Date 24/04/2024 Nomination Flag Y
+Account Type SB-Chq General-Pub-IND-ALL Nominee Name M SARANYA
+Mode of Operation OPERATING SINGLY Total Balance 5,851.39Available Balance (Cumulative) 5,851.39
+QAB Required 1000.000QAB Maintained 4484.666
+Account Holder Names Mr. MANOHARAN Primary GSTIN NA
+Customer Details
+Name Mr. MANOHARAN CIF Number 40281617728
+Mobile xxxxxxxxxx54 Email mxxxxxxxxxxx@gmail.com
+KYC Complied Y KYC Expiry Date 09/04/2027 CKYC ID xxxxxxxxxx0428
+Primary ID Type ADHAR CARD WITH DIFF ADDRESS Date of Birth 08xxxxxx92 Statement Date Tue Jun 23 12:20:21 GMT+05:30 2026
+Address NO.1 / 172A,, 1ST FLOOR,, AYYAPPAN STREET,, KELAMBAKKAM, TAMIL NADU, 603103
+Home Branch Details
+Branch No 02038 Branch Name KELAMBAKKAM IFSC MAHB0002038
+Phone No Email Id BOM2038@MAHABANK.CO.IN GSTIN
+Address NO 1 / 239 ANNAN NAGAR NEAR BSNL OFFICE, KELAMBAKKAM CHENGALPATTU, null, null, 603103
