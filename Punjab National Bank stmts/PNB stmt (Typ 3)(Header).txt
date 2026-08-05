@@ -1,0 +1,16 @@
+===PAGE 1===
+Account Statement for Account Number 0165108700000015
+Branch Details
+Branch Name: CHENNAI-MOUNT ROAD
+Bank Address: 769,SPENCER PLAZA,
+GROUND FLOOR,MOUNT RD
+City: CHENNAI
+Pin : 600002
+IFSC Code: PUNB0016510
+Customer Details
+Account Name: B N ENTERPRISES
+Customer Address: 7TH FLOOR 560 CENTURY PLAZA ANNASALAI ROAD
+TEYNAMPETTEYNAMPET CHENNAI
+City:
+Pin : 600018
+Nominee :
