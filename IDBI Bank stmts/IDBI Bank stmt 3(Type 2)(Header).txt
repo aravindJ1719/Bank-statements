@@ -1,0 +1,24 @@
+===PAGE 1===
+Customer details. Branch details
+Account Holder Name : ELUMALAI ENTERPRISES Sol ID/ Branch ID : 2324
+Address :
+Account Branch :
+:
+Address : IDBI BANK LTD.,GROUND FLOOR, NO: 326,
+:
+: MRH ROAD, MADHAVARAM, CHENNAI
+:
+:
+:
+:
+Customer ID : 105443287
+Account No : 2324102000000550
+Account Opening Date : 14/06/2024 Branch IFS Code : IBKL0002324@idbi.co.in
+Account Status : Close Branch MICR Code : 600259045
+Contact Number/Email Id : 917092437906/ B.ASHOK0202@GMAIL.COM
+Currency : INR
+STATEMENT OF ACCOUNT : 2324102000000550
+Transaction Date From : 01/07/2026 to: 17/07/2026 Statement downloaded on Fri, 17 Jul 2026 14:44:53
+Cheque Withdrawal
+Srl Txn Date Value Date Description Deposit (Cr) Balance (INR)
+No s (Dr)
