@@ -1,0 +1,48 @@
+===PAGE 1===
+Page 1 of 17
+The Royal Batteries
+Customer ID : 72680080
+C/o The Royal Batteries
+G/7 Bishop Aruldoss Shopping Cplx
+RM Name : Sikkander Ismail S M
+Telc T B Road Arasaradi RM Contact No : --9087529929
+Madurai
+Tamil Nadu
+India
+625016
+Statement as on : 31/01/2026
+Customer Email : THEROYALSFSONIC@GMAIL.COM
+Account Relationship Summary
+CR Limit Sweep in FD Amt# Hold Total Withdrawable**
+Ccy Account Type Balance
+DR Amount Balance
+INR CURRENT ACCOUNTS 415030.08 CR 0.00 10674.00 0.00 425704.08
+INR TERM DEPOSITS 10674.00 CR
+** Total Withdrawable Balance does not include Hold Amount and Unclear Amount.
+Total Withdrawable Balance=Balance+Limit+Sweep in FD Amt-Hold Amount.
+# Sweep In FD may have linkages to multiple accounts.
+Signature Not Verified
+Digitally signed by DS HDFC Bank Ltd
+Date: 2026.02.01 20:58:40 +05:30
+Reason: DIGITAL SIGNATURE
+Location: MUMBAI
+
+===PAGE 2===
+Page 2 of 17
+The Royal Batteries
+Customer ID : 72680080 Account Branch : 2409
+Account Number : 50200022359130 By Pass Road - Madurai
+Joint Holders 1 : Not Applicable Hdfc Bank Ltd
+Ss Towers, 78/4,
+Joint Holders 2 : Not Applicable
+By Pass Road,
+Account Type : BIZ PRO PLUS ACCOUNT (1482)
+Madurai
+Statement From : 01/01/2026 To 31/01/2026 Tamil Nadu
+Currency : INR 625016
+Nomination : Not Registered RTGS/NEFT IFSC : HDFC0002409 MICR: 625240007
+Expected AQB : 50,000.00
+Current Account Details
+Opening Balance : 8,14,944.17 Limit : 0.00
+Txn Date Narration Withdrawals Deposits Closing Balance
+01/01/2026 IMPS-600108266219-PANDIANAUTOSTOR 0.00 10,000.00 8,24,944.17
