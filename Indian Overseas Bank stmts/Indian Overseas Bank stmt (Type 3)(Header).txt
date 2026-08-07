@@ -1,0 +1,16 @@
+===PAGE 1===
+Account Number : 023033000000014 Branch Name : VEDASANDUR (0230)
+Customer Name : MATHA AGENCIES Branch Address : 54 BIG BAZAAR STREET,
+Vedasandur, Dindigul Dt,
+VEDASANDUR, TAMIL NADU,
+624710
+Customer ID : 56167288 Email : iob0230@iob.in
+A/C Open Date : 04/09/2018 IFSC Code : IOBA0000230
+Currency : INR MICR Code : 625020038
+A/C Type : CASH CREDIT - MUDRA LOANS
+A/C Status : Active
+Address : 54/12, FATHIMA NAGAR, MARAMBADI ROAD,
+VEDASANDUR, TAMIL NADU, 624710
+Statement for the period from 2026-02-06 to 2026-08-06
+Date Value Date CHQ Remarks COD Debit Credit Balance
+TO TRF - SLMUD: 122103710000095-
