@@ -1,0 +1,18 @@
+===PAGE 1===
+Statement Of Account from 01-01-2026 to 07-07-2026
+Name : GURU FARM TRADERS Customer Id : 1146209330
+Address : 3/181, VELAVAN, STREET, Mobile Number : 9843649685
+PIDAMANERI,, .
+Account Number : 1146120020000309
+Account Status : ACTIVE
+Account Open Date : 20-07-2022
+Account Type : MAXIMA CURRENT ACCOUNT
+City : DHARMAPURI
+Branch Name : DHARMAPURI
+State : TAMIL NADU
+Pincode : 636701
+Country : INDIA Branch Id : 1146
+Nomination : JAILVIZHI MICR Code : 636761102
+Mode Of Operation : PROPRIETOR IFSC Code : UJVN0001146
+Currency : INR
+Effective Balance : 1259169.06 FFD Balance : 0.00
