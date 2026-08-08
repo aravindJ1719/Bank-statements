@@ -1,0 +1,23 @@
+===PAGE 1===
+Account Statement
+159500123231
+MADAN MOHAN B Date: 20 Jul 2026
+Period: 20 Jan 2026 - 20 Jul 2026
+NEW NO 12 JAYAMMAL ST, AYYAVOO COLONY,
+AMINJIKARAI,
+CHENNAI,
+TAMIL NADU 600029,
+INDIA.
+Mob.No / Tel.: +91 XXXXXX3231
+Customer Details
+Name Holding Status Customer ID
+MADAN MOHAN B Primary Holder 3XXXX598
+Account Summary
+Account No. Account Type Currency Lien Amount Balance
+159500123231 INDUS SELECT INR 1500.00 56338.34
+SAVINGS
+Transaction History
+Statement Period: 20 Jan 2026 - 20 Jul 2026 Branch IFSC Code: INDB0000567
+Nomination Registered: Yes
+Date Particulars Chq No/Ref No Withdrawal Deposit Balance
+19 Jul 2026 UPI/656600046479/DR/JIO S9980369 824.82 0.00 57838.34
