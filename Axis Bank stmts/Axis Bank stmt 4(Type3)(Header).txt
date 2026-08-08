@@ -1,0 +1,11 @@
+===PAGE 1===
+Account Statement Report
+EXCELLENT FIN-INVEST PRIVATE LIMITED
+Joint Holder :- 18 CHANDRAPPA MUDALY STREET SOWCARPET~CHENNAI TONDIARPET ST GEORGE~CHENNAI~TAMIL NADU~600001 Scheme :
+CA - BUSINESS CLASSIC currency : INR
+Customer No : 979816150 IFSC Code : UTIB0001885 MICR Code : 600211063 CKYC Number: **********2111
+Statement of Axis Bank Account No : 925020059263744 for the period ( From : 01/02/2026 To : 01/07/2026 )
+Opening Balance: INR 2,685.00
+S.NO Transaction Value Date Particulars Amount(INR) Debit/Credit Balance(INR) Cheque Branch Name(SOL)
+Date (dd/mm/yyyy) Number
+(dd/mm/yyyy)

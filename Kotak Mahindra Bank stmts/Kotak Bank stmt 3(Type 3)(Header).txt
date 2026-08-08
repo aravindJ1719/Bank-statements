@@ -1,0 +1,19 @@
+===PAGE 1===
+Account Statement
+21 Jan 2026 - 21 Jul 2026
+MASS WATER WASH AND DETAILING Account No. 8903631396
+Account Type Current
+CRN xxxxxx656
+Branch Madurai-Uthangudi
+19 Swami Vivekananda Nagar 1
+Account Status Active
+20 Feet Road Mattuthavani
+Nominee Registered Yes
+Bus Stand Area Madurai Madur
+Nominee Name SAHANAS PARVEEN
+Madurai - 625007
+Tamilnadu - India Currency INDIAN RUPEE
+MICR 625485004 IFSC Code KKBK0008720
+Current Account Transactions
+# Date Description Chq/Ref. No. Withdrawal (Dr.) Deposit (Cr.) Balance
+- - Opening Balance - - - 11,38,454.83
